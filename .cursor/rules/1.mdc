@@ -1,0 +1,31 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+**Rule 1**: Avoid using JavaScript
+**Description**: The AI should not use or suggest code in JavaScript; all functionalities must be implemented in PHP.
+
+**Rule 2**: Avoid medical claims
+**Description**: The AI should not make statements about curing diseases or specific health issues.
+
+**Rule 3**: Use general formulations
+**Description**: The AI should emphasize that the product is natural and promotes overall well-being without specific details.
+
+**Rule 4**: Comply with Google Ads policies
+**Description**: The text must comply with Google Ads policies, especially regarding health products advertising.
+
+**Rule 5**: Use relative links
+**Description**: All links should be relative and start with `./`; when linking to the homepage, use `./` instead of `index`.
+
+**Rule 6**: Proper form submission headers
+**Description**: In form submission scripts, the "Subject" and "From" headers should use base64 encoding for correct UTF-8 handling; forms should be submitted from the server's domain.
+
+**Rule 7**: Responsive design
+**Description**: The design should be responsive and display correctly on various devices.
+
+**Rule 8**: Cookie popup handling
+**Description**: The cookie popup should close after acceptance; its handling script should be implemented in PHP.
+
+**Rule 9**: Prohibit the use of social media icons and links
+**Description**: The AI should not use or suggest the inclusion of social media icons or links to social media platforms in the content.
