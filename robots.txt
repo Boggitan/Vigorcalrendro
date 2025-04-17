@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /processar-pedido.php
-Disallow: /pedidos.log
-
-Sitemap: https://vigorcalrendro.com/sitemap.xml 
